@@ -26,7 +26,7 @@ $ npm run dev
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader). Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
 
-### How it is different from the official `vuejs-templates/webpack-simple`
+### How it is different from the official vuejs-templates/webpack-simple
 
 - I made it.
 - It moves around some of the content so that assets live as a sibling of src and removes `/dist` from `.gitignore`. This allows content in `/dist` to access `/assets` more easily. The project can be deployed as is (for _small_ projects!) with `npm run build`.
