@@ -4,13 +4,15 @@
 
 > This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init webpack-simple#1.0 my-project`
 
+This is my variation on the [official webpack-simple](https://github.com/vuejs-templates/webpack-simple) template.
+
 ### Usage
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init webpack-simple my-project
+$ vue init davemacdo/webpack-simple my-project
 $ cd my-project
 $ npm install
 $ npm run dev
